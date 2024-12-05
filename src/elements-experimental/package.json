@@ -1,6 +1,6 @@
 {
     "name": "@sbb-esta/lyne-elements-experimental",
-    "version": "0.0.0-PLACEHOLDER",
+    "version": "1.0.0",
     "description": "Lyne Design System",
     "keywords": [
         "design system",
@@ -10,8 +10,7 @@
     ],
     "type": "module",
     "customElements": "custom-elements.json",
-    "dependencies": {
-    },
+    "dependencies": {},
     "publishConfig": {
         "access": "public"
     }
