@@ -3,9 +3,6 @@
     "release-type": "node",
     "include-component-in-tag": false,
     "packages": {
-        ".": {
-            "component": "core"
-        },
         "src/elements": {
             "component": "lyne-elements"
         },
@@ -26,7 +23,6 @@
             "type": "linked-versions",
             "groupName": "core",
             "components": [
-                "core",
                 "lyne-elements",
                 "lyne-elements-experimental"
             ]
