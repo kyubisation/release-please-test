@@ -1,0 +1,17 @@
+{
+    "name": "@sbb-esta/lyne-angular",
+    "version": "19.0.0",
+    "description": "Lyne Design System",
+    "keywords": [
+        "design system",
+        "web components",
+        "lit",
+        "storybook"
+    ],
+    "type": "module",
+    "dependencies": {
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

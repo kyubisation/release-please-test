@@ -1,0 +1,43 @@
+{
+    "$schema": "https://raw.githubusercontent.com/googleapis/release-please/main/schemas/config.json",
+    "release-type": "node",
+    "include-component-in-tag": false,
+    "packages": {
+        ".": {
+            "component": "core"
+        },
+        "src/elements": {
+            "component": "lyne-elements"
+        },
+        "src/elements-experimental": {
+            "component": "lyne-elements-experimental"
+        },
+        "src/angular": {
+            "component": "lyne-angular",
+            "include-component-in-tag": true
+        },
+        "src/angular-experimental": {
+            "component": "lyne-angular-experimental",
+            "include-component-in-tag": true
+        }
+    },
+    "plugins": [
+        {
+            "type": "linked-versions",
+            "groupName": "core",
+            "components": [
+                "core",
+                "lyne-elements",
+                "lyne-elements-experimental"
+            ]
+        },
+        {
+            "type": "linked-versions",
+            "groupName": "angular",
+            "components": [
+                "lyne-angular",
+                "lyne-angular-experimental"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "name": "@sbb-esta/lyne-angular-experimental",
+    "version": "0.0.0-PLACEHOLDER",
+    "description": "Lyne Design System",
+    "keywords": [
+        "design system",
+        "web components",
+        "lit",
+        "storybook"
+    ],
+    "type": "module",
+    "dependencies": {
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}
