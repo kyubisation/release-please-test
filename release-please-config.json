@@ -10,11 +10,13 @@
         "src/angular": {
             "component": "lyne-angular",
             "include-component-in-tag": true,
+            "versioning": "prerelease",
             "prerelease-type": "next"
         },
         "src/angular-experimental": {
             "component": "lyne-angular-experimental",
             "include-component-in-tag": true,
+            "versioning": "prerelease",
             "prerelease-type": "next"
         }
     },
