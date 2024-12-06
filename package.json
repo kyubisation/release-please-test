@@ -1,23 +1,23 @@
 {
-    "name": "@sbb-esta/lyne-elements",
-    "version": "1.14.0",
-    "description": "Lyne Design System",
-    "keywords": [
-      "design system",
-      "web components",
-      "lit",
-      "storybook"
-    ],
-    "author": "Lyne Team",
-    "license": "MIT",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/sbb-design-systems/lyne-components.git"
-    },
-    "bugs": {
-      "url": "https://github.com/sbb-design-systems/lyne-components/issues"
-    },
-    "type": "module",
-    "private": true
-  }
+  "name": "@sbb-esta/lyne-elements",
+  "version": "1.0.1",
+  "description": "Lyne Design System",
+  "keywords": [
+    "design system",
+    "web components",
+    "lit",
+    "storybook"
+  ],
+  "author": "Lyne Team",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sbb-design-systems/lyne-components.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sbb-design-systems/lyne-components/issues"
+  },
+  "type": "module",
+  "private": true
+}
   
