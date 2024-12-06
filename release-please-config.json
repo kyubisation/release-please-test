@@ -4,11 +4,8 @@
     "include-component-in-tag": false,
     "changelog-path": "CHANGELOG.md",
     "packages": {
-        "src/elements": {
-            "component": "lyne-elements"
-        },
-        "src/elements-experimental": {
-            "component": "lyne-elements-experimental"
+        ".": {
+            "component": "core"
         },
         "src/angular": {
             "component": "lyne-angular",
@@ -20,14 +17,6 @@
         }
     },
     "plugins": [
-        {
-            "type": "linked-versions",
-            "groupName": "core",
-            "components": [
-                "lyne-elements",
-                "lyne-elements-experimental"
-            ]
-        },
         {
             "type": "linked-versions",
             "groupName": "angular",
