@@ -5,22 +5,18 @@
     "changelog-path": "CHANGELOG.md",
     "packages": {
         "src/elements": {
-            "component": "lyne-elements",
-            "changelog-path": "../../CHANGELOG.md"
+            "component": "lyne-elements"
         },
         "src/elements-experimental": {
-            "component": "lyne-elements-experimental",
-            "changelog-path": "../../CHANGELOG.md"
+            "component": "lyne-elements-experimental"
         },
         "src/angular": {
             "component": "lyne-angular",
-            "include-component-in-tag": true,
-            "changelog-path": "../../CHANGELOG.md"
+            "include-component-in-tag": true
         },
         "src/angular-experimental": {
             "component": "lyne-angular-experimental",
-            "include-component-in-tag": true,
-            "changelog-path": "../../CHANGELOG.md"
+            "include-component-in-tag": true
         }
     },
     "plugins": [
