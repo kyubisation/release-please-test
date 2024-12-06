@@ -9,11 +9,13 @@
         },
         "src/angular": {
             "component": "lyne-angular",
-            "include-component-in-tag": true
+            "include-component-in-tag": true,
+            "prerelease-type": "next"
         },
         "src/angular-experimental": {
             "component": "lyne-angular-experimental",
-            "include-component-in-tag": true
+            "include-component-in-tag": true,
+            "prerelease-type": "next"
         }
     },
     "plugins": [

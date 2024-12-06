@@ -1,6 +1,5 @@
 {
-    "src/elements": "1.0.0",
-    "src/elements-experimental": "1.0.0",
+    ".": "1.0.0",
     "src/angular": "19.0.0-next.0",
     "src/angular-experimental": "19.0.0-next.0"
 }
