@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/kyubisation/release-please-test/compare/v1.0.1...v1.1.0) (2024-12-09)
+
+
+### Features
+
+* add angular keyword ([4f40065](https://github.com/kyubisation/release-please-test/commit/4f400652d38727a6bfa76f648562fe3e4a8a2206))
+
 ## [1.0.1](https://github.com/kyubisation/release-please-test/compare/v1.0.0...v1.0.1) (2024-12-06)
 
 
