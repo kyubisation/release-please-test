@@ -1,5 +1,5 @@
 {
-    ".": "1.0.1",
-    "src/angular": "19.0.0-next.1",
-    "src/angular-experimental": "19.0.0-next.1"
+    ".": "1.1.0",
+    "src/angular": "19.0.0-next.2",
+    "src/angular-experimental": "19.0.0-next.2"
 }

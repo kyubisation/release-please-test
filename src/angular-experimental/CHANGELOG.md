@@ -1,5 +1,12 @@
 # Changelog
 
+## [19.0.0-next.2](https://github.com/kyubisation/release-please-test/compare/lyne-angular-experimental-v19.0.0-next.1...lyne-angular-experimental-v19.0.0-next.2) (2024-12-09)
+
+
+### Miscellaneous Chores
+
+* **lyne-angular-experimental:** Synchronize angular versions
+
 ## [19.0.0-next.1](https://github.com/kyubisation/release-please-test/compare/lyne-angular-experimental-v19.0.0-next.0...lyne-angular-experimental-v19.0.0-next.1) (2024-12-06)
 
 

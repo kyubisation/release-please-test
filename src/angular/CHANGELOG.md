@@ -1,5 +1,12 @@
 # Changelog
 
+## [19.0.0-next.2](https://github.com/kyubisation/release-please-test/compare/lyne-angular-v19.0.0-next.1...lyne-angular-v19.0.0-next.2) (2024-12-09)
+
+
+### Features
+
+* add angular keyword ([4f40065](https://github.com/kyubisation/release-please-test/commit/4f400652d38727a6bfa76f648562fe3e4a8a2206))
+
 ## [19.0.0-next.1](https://github.com/kyubisation/release-please-test/compare/lyne-angular-v19.0.0-next.0...lyne-angular-v19.0.0-next.1) (2024-12-06)
 
 
