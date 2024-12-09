@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.1](https://github.com/kyubisation/release-please-test/compare/v1.1.0...v1.1.1) (2024-12-09)
+
+
+### Bug Fixes
+
+* something ([caefebc](https://github.com/kyubisation/release-please-test/commit/caefebca3b44332110462511a20547fa813e6565))
+
 ## [1.1.0](https://github.com/kyubisation/release-please-test/compare/v1.0.1...v1.1.0) (2024-12-09)
 
 
